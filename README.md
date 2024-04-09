@@ -35,7 +35,7 @@ Rename Server PC:  <br/>
 <br />
 <br />
 Assign Server IPv4 Address and Set DNS to Loopback Address:  <br/>
-<img src="https://i.imgur.com/ShgGfSZ.png" height="80%" width="80%" alt="Active Directory Lab Steps"/>
+<img src="https://i.imgur.com/b1Emikx.png" height="80%" width="80%" alt="Active Directory Lab Steps"/>
 <br />
 <br />
 Install Active Directory:  <br/>
