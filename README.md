@@ -94,7 +94,7 @@ Create New Windows 10 Virtual Machine for a Client and Set Network Adapter to In
 <img src="https://i.imgur.com/AO3Tt4F.png" height="80%" width="80%" alt="Active Directory Lab Steps"/>
 <br />
 <br />
-Rename Client PC and the Server Domain:  <br/>
+Rename Client PC and Join the Server Domain:  <br/>
 <img src="https://i.imgur.com/VfQKOEo.png" height="80%" width="80%" alt="Active Directory Lab Steps"/>
 <br />
 <br />
