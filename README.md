@@ -1,4 +1,4 @@
-<h1>JActive Directory Home Lab</h1>
+<h1>Active Directory Home Lab</h1>
 
 <h2>Description</h2>
 Setup a Home Lab Running Active Directory on Windows Server 2019 with Oracle VirtualBox, Add Users with PowerShell and Connect with a Windows 10 Client.
