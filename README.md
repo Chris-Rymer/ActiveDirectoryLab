@@ -94,8 +94,12 @@ Create New Windows 10 Virtual Machine for a Client and Set Network Adapter to In
 <img src="https://i.imgur.com/AO3Tt4F.png" height="80%" width="80%" alt="Active Directory Lab Steps"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Active Directory Lab Steps"/>
+Rename Client PC and the Server Domain:  <br/>
+<img src="https://i.imgur.com/VfQKOEo.png" height="80%" width="80%" alt="Active Directory Lab Steps"/>
+<br />
+<br />
+Sign In to Domain from Client:  <br/>
+<img src="https://i.imgur.com/ThF84jN.png" height="80%" width="80%" alt="Active Directory Lab Steps"/>
 </p>
 
 <!--
