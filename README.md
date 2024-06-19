@@ -1,7 +1,7 @@
 <h1>Active Directory Home Lab</h1>
 
 <h2>Description</h2>
-Setup a Home Lab running Active Directory on Windows Server 2019 with Oracle VirtualBox, add users with PowerShell and connect with a Windows 10 Client.
+Setup a home lab running Active Directory on Windows Server 2019 with Oracle VirtualBox, add users with PowerShell and connect with a Windows 10 Client.
 <br />
 
 
